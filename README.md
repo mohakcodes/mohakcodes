@@ -1,10 +1,10 @@
 👋 Hi, I’m @mohakcodes - Mohak Chauhan
 
- 👀 I’m interested in Programming & Web Development
+ 👀 I’m interested in DSA & Web Development
 
- 🌱 I’m currently learning JavaScript with DOM
+ 🌱 I’m currently learning JavaScript and Backtracking
 
- 💫 I’m looking to collaborate in front-end field
+ 💫 I’m looking to collaborate in Front-End field
 
  📫 How to reach me : [mohak46812@gmail.com](mailto:mohak46812@gmail.com)
 
