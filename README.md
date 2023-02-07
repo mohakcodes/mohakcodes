@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohakcodes&label=Profile%20views&color=0e75b6&style=flat" alt="mohakcodes" /> </p>
 
-- 🔭 I’m currently working on **DSA Skills**
+- 🔭 I’m currently working on **DSA Problem Solving**
 
 - 🌱 I’m currently learning **React**
 
